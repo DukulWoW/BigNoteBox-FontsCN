@@ -6,7 +6,7 @@ BigNoteBox's Simplified Chinese font picker (a zhCN client, or Chinese picked in
 language setting) and four to its Traditional Chinese picker (zhTW), so Chinese users get more
 choice than WoW's own Hei and Kai fonts.
 
-Requires BigNoteBox 1.9.0 or newer. Install both, log in, pick a font on BigNoteBox's General tab.
+Requires BigNoteBox 1.9.0 or newer (1.10.0 or newer for the Traditional Chinese picker). Install both, log in, pick a font on BigNoteBox's General tab.
 
 ## Fonts
 
