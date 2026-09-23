@@ -1,3 +1,8 @@
+# BigNoteBox Fonts CN v1.0.1
+
+## Change
+- Fonts now also register with LibSharedMedia-3.0, so other addons (BigChatBox, WeakAuras, etc.) can use them too
+
 # BigNoteBox Fonts CN v1.0.0
 
 ## New
