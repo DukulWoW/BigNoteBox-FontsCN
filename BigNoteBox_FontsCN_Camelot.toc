@@ -4,5 +4,8 @@
 ## Author: Dukul
 ## Version: 1.0.0
 ## Dependencies: BigNoteBox
+## X-Curse-Project-ID: 1708437
+## X-WoWI-ID: 27219
+## X-Wago-ID: 56nbg069
 
 Fonts.lua
