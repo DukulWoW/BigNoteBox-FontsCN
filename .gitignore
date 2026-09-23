@@ -1,0 +1,14 @@
+# Claude Code project context (local only)
+CLAUDE.md
+FILEMAP.md
+_docs/
+_work/
+
+# Reference files
+_reference/
+
+# Release archives (zips + release note files)
+_filearchive/
+
+# BigWigs packager build output
+.release/

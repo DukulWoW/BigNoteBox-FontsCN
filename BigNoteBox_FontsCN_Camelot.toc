@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: BigNoteBox |cffaaaaaaFonts CN|r
+## Notes: Chinese font pack for BigNoteBox - six extra fonts for the Simplified Chinese font picker.
+## Author: Dukul
+## Version: 1.0.0
+## Dependencies: BigNoteBox
+
+Fonts.lua
