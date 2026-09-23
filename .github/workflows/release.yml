@@ -1,11 +1,8 @@
 name: Release
 
 # A v* tag push is the whole release: the packager builds the zip, uploads it to
-# CurseForge and Wago, and cuts the GitHub release. Same workflow as BigNoteBox's.
-#
-# WoWInterface is skipped for now: its page holds a hand-uploaded placeholder
-# until the listing is approved. To turn it on, give WOWI_API_TOKEN the same
-# expression as the other two tokens.
+# CurseForge, WoWInterface and Wago, and cuts the GitHub release. Same workflow
+# as BigNoteBox's. (WoWInterface was off through v1.1.0, which went up by hand.)
 #
 # Manual runs pick a mode:
 #   dry          - build only, upload nowhere. The safe way to check the zip.
@@ -49,7 +46,7 @@ jobs:
           # The packager skips any site whose token is empty. It expects
           # CF_API_KEY; the secret is CF_API_TOKEN.
           CF_API_KEY: ${{ github.event_name == 'push' && secrets.CF_API_TOKEN || '' }}
-          WOWI_API_TOKEN: ''
+          WOWI_API_TOKEN: ${{ github.event_name == 'push' && secrets.WOWI_API_TOKEN || '' }}
           WAGO_API_TOKEN: ${{ github.event_name == 'push' && secrets.WAGO_API_TOKEN || '' }}
         with:
           # -n "<file name>:<upload label>". The label is what the sites show as the
