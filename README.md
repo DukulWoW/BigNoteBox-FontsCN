@@ -21,7 +21,7 @@ Requires BigNoteBox 1.9.0 or newer (1.10.0 or newer for the Traditional Chinese 
 | ZCOOL KuaiLe | ZCOOL KuaiLe | [Google Fonts](https://fonts.google.com/specimen/ZCOOL+KuaiLe) | OFL 1.1 | Simplified |
 | Ma Shan Zheng | Ma Shan Zheng | [Google Fonts](https://fonts.google.com/specimen/Ma+Shan+Zheng) | OFL 1.1 | Simplified |
 
-Recommended by a Chinese user's feedback on v1.0 (ALL-44): the previous lineup (Noto Sans SC, Noto
+Recommended by a Chinese user's feedback on v1.0: the previous lineup (Noto Sans SC, Noto
 Serif SC, Grin Sans SC and the original LXGW WenKai) is replaced by this list, keeping ZCOOL KuaiLe
 and Ma Shan Zheng as the "fun" display slot, Simplified only - no Traditional-capable display font
 was in the recommended list. Neo XiHei, Neo ZhiSong and Zhuque Fangsong cover both Simplified and

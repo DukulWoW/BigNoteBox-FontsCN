@@ -51,7 +51,7 @@ end
 -- v1.1: replaced WenKai SC's upstream (old LXGW WenKai -> LXGW WenKai GB, same
 -- rename), dropped Noto Sans SC / Noto Serif SC / Grin Sans SC, added Neo XiHei,
 -- Neo ZhiSong, Zhuque Fangsong, Round Moon SC and WenKai TC, per a Chinese user's
--- font recommendations (ALL-44). ZCOOL KuaiLe and Ma Shan Zheng stay as the
+-- font recommendations. ZCOOL KuaiLe and Ma Shan Zheng stay as the
 -- display ("fun") slot, Simplified only - no Traditional-capable display font was
 -- in the recommended list. Also adds BigNoteBox's "hant" (Traditional Chinese) set.
 local FONTS_SC = {
