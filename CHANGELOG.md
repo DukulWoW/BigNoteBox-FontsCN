@@ -2,6 +2,7 @@
 
 ## New
 - Neo XiHei, Neo ZhiSong, Zhuque Fangsong and Round Moon SC - four new fonts recommended by a Chinese user's feedback
+- Now also supports BigNoteBox's Traditional Chinese font picker: WenKai TC, plus Neo XiHei, Neo ZhiSong and Zhuque Fangsong shared with the Simplified picker
 
 ## Change
 - WenKai SC now built from LXGW WenKai GB (the successor to the original LXGW WenKai project)

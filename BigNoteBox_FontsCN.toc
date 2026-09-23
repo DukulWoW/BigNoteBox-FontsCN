@@ -1,8 +1,8 @@
 ## Interface: 120105, 120100
 ## Title: |cff66bb6aB|cff72c476i|cff7ecd82g|cff8ad68eN|cff96df9ao|cffa2e8a6t|cffaef1b2e|cffbafabeB|cffc6ffcao|cffd2ffd6x|r |cffaaaaaaFonts CN|r
 ## Title-zhCN: BigNoteBox |cffaaaaaa中文字体包|r
-## Notes: Chinese font pack for BigNoteBox - seven extra fonts for the Simplified Chinese font picker.
-## Notes-zhCN: 为 BigNoteBox 的简体中文字体选择器添加七款字体。
+## Notes: Chinese font pack for BigNoteBox - seven fonts for the Simplified Chinese font picker, three of which also join the four-font Traditional Chinese picker.
+## Notes-zhCN: 为 BigNoteBox 的简体中文字体选择器添加七款字体，其中三款同时加入繁体中文字体选择器（该选择器共四款字体）。
 ## IconTexture: Interface/Addons/BigNoteBox/Assets/icon
 ## Author: Dukul
 ## Version: 1.1.0
