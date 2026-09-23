@@ -1,0 +1,29 @@
+# BigWigs packager layout contract for BigNoteBox Fonts CN.
+# The repo root IS the addon (like BigChatBox), so no move-folders: package-as
+# names the single top-level folder in the zip. The result must list exactly
+# BigNoteBox_FontsCN\ and nothing else.
+
+package-as: BigNoteBox_FontsCN
+
+enable-nolib-creation: no
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+# CurseForge relation, so the CurseForge app installs BigNoteBox with the pack.
+required-dependencies:
+  - bignotebox
+
+# README.md and LICENSE stay in the zip on purpose: the README explains the
+# OFL renames and credits the original fonts, and Licenses\ must ship with them.
+ignore:
+  - .github
+  - .pkgmeta
+  - .gitignore
+  - _work
+  - _docs
+  - _filearchive
+  - _reference
+  - CLAUDE.md
+  - FILEMAP.md

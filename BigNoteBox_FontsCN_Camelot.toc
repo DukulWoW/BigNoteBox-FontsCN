@@ -1,6 +1,9 @@
 ## Interface: 16001
 ## Title: BigNoteBox |cffaaaaaaFonts CN|r
+## Title-zhCN: BigNoteBox |cffaaaaaa中文字体包|r
 ## Notes: Chinese font pack for BigNoteBox - six extra fonts for the Simplified Chinese font picker.
+## Notes-zhCN: 为 BigNoteBox 的简体中文字体选择器添加六款字体。
+## IconTexture: Interface/Addons/BigNoteBox/Assets/icon
 ## Author: Dukul
 ## Version: 1.0.0
 ## Dependencies: BigNoteBox
